@@ -1,0 +1,117 @@
+Frameworks
+Frameworks are structured methods for organizing information, making complex ideas simple and actionable. 
+They fit under the storytelling umbrella but offer different approaches to simplify and engage your audience. 
+This guide explores various types of frameworks, how to create them, and when to use them effectively.
+
+What Are Frameworks?
+Frameworks simplify information into structured, actionable steps. They can take many forms:
+Conceptual Frameworks: Analogies or metaphors like the "YouTube Chain" or "Umbrella."
+Process-Oriented Frameworks: Step-by-step guides or acronyms like BENS.
+Visual Models: Diagrams, flowcharts, or ladders for easier comprehension.
+
+When to Use Frameworks
+Frameworks aren’t necessary for every video. Use them when:
+You’re explaining a complex idea.
+The framework can simplify or clarify information.
+You want to make something complex easy to remember
+It fits naturally into your content.
+
+Types of Frameworks and How to Use Them
+1. Acronyms
+What Are They?
+Acronyms simplify concepts into a memorable word, where each letter represents a step or idea (e.g., BENS).
+
+
+How to Create One:
+Break your idea into its core components.
+Use the first letters to form a word or phrase.
+Adjust wording to make the acronym easy to remember.
+
+
+Example:
+
+Teaching productivity with "TITS":
+
+
+T: Time Block.
+I: Ignore Distractions.
+T: Two-Hour Work Sprint.
+S: Short Breaks.
+
+
+Pro Tip: Use AI to help generate acronyms based on your components.
+
+You could make each point of your video a letter then stick to the Example/Application structure for each one OR just use it as one point in your video.
+
+2. Conceptual Frameworks
+What Are They?
+
+Analogies or metaphors that visually explain a concept, like an umbrella for overarching ideas or a ladder for progress.
+
+
+How to Create One:
+
+
+Identify the concept you want to simplify.
+Compare it to something familiar that shares similar characteristics.
+Design the framework (e.g., a tree for branching ideas).
+
+
+Examples:
+
+
+A sales funnel for customer journeys.
+A target for goal-setting.
+
+
+Pro Tip: These are memorable but can be challenging to create. Use them sparingly for big, complex concepts.
+
+3. Processes
+What Are They?
+
+Simple step-by-step guides that break down how to achieve a result.
+
+
+How to Create One:
+
+
+Write down all the steps needed to achieve a goal.
+Remove unnecessary steps, leaving only critical actions.
+Present it visually or verbally in a clear, logical order.
+
+
+Examples:
+
+
+A process for growing on YouTube: Research, Script, Shoot, Edit, Publish.
+A checklist for effective thumbnails: Contrast, Clarity, Curiosity.
+
+
+Pro Tip: Processes are common, effective, and ideal for tutorials.
+
+How to Decide Which Framework to Use
+Ask yourself:
+
+
+Does this information need simplification?
+Will a framework make the concept clearer or more memorable?
+What style resonates with my audience?
+
+Mistakes to Avoid with Frameworks
+Forcing a Framework: Only use one if it enhances the content.
+Overcomplicating: Frameworks should simplify, not add confusion.
+Copying Others: Adapt frameworks to your unique style and audience.
+
+Using Frameworks with Examples
+Frameworks can act as:
+A Single Point: Use it to explain one idea in the video.
+A Full Structure: Base your entire video around the framework, with examples for each section.
+
+Adjusting Creativity to Your Audience
+Not all audiences appreciate quirky or creative frameworks. For example:
+Ed’s Style: Over-the-top metaphors, humor, and sketches work for creators seeking inspiration.
+
+
+Your Style: May require straightforward explanations, clean visuals, and practical steps.
+Use ready-fire-aim to test what resonates with your audience. Avoid replicating someone else’s style—focus on what works for your viewers.
+

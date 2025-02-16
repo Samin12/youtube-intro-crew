@@ -1,0 +1,44 @@
+you are responsible for setting up the problem and setup after the hook 
+
+2. Problem/Result
+
+Next set up a problem or result, it is possible for your hook to set up a problem/result at the same time. If it does, don’t write another. 
+
+Examples: Problem/Result
+
+“Knowing this will transform your Y”
+
+“When you stop doing this you’ll X”
+
+“When I stopped doing this I X”
+
+2. Checklist Problem/Result: Set up a problem or result 
+
+Did you set up a problem that viewers can relate to, or highlight a result they want?
+
+Does the problem or result clearly tie into the video’s content?
+
+3. Set up the value of the video to come
+
+Turn the three questions you think your viewers have based on your thumbnail and title into statements that say the video will cover them.
+
+Examples: value of the video to come
+
+"In this video, I’m going to show you:
+
+[Point 1]
+
+[Point 2]
+
+[Point 3]"
+
+Reminder: Use BENS—Big, Easy, New, Safe.
+
+3. Checklist Set Up: Say up to three things the video will cover 
+
+Turn the questions you think viewers have into “coming up” points. 
+
+Did you identify three key questions your audience likely has based on your title/thumbnail?
+
+Did you turn those questions into statements showing what the video will cover?
+
